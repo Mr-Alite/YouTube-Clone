@@ -8,23 +8,24 @@ A YouTube clone project built with React.js that mimics the basic functionalitie
 
 ## Features
 
-- Browse videos
-- Search for videos
-- Watch videos
-- User authentication (login/sign-up)
-- Like/Dislike videos
-- Comment on videos
-- Upload videos (for authenticated users)
-- User profiles
+- Stunning video section with custom categories.
+- Responsive channel and video cards.
+- Channel pages.
+- Video pages where you can play the video straight from the app.
+- Related videos.
+- Search functionality to find specific videos.
+- Responsive on all devices: mobile, tablet, laptop and even 4k devices.
 
 ## Technologies Used
 
-- React.js
-- React Router
-- Redux (optional, if used for state management)
-- Firebase (for user authentication and video storage)
-- HTML/CSS (with Bootstrap or Material-UI for styling)
-- JavaScript (ES6+)
+- React.js: A JavaScript library for building user interfaces.
+- Material UI: A UI library for React that implements Google's Material Design.
+- Rapid API: A platform for finding and using APIs (Application Programming Interfaces).
+- Axios: A promise-based HTTP client for the browser and Node.js.
+- React Router DOM: A routing library for React applications.
+- HTML: The markup language for building web pages.
+- CSS: The Cascading Style Sheets language for styling web pages.
+- JavaScript: A programming language for adding interactivity to web pages.
 
 ## Getting Started
 
