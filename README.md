@@ -4,7 +4,7 @@
 
 A YouTube clone project built with React.js that mimics the basic functionalities of YouTube.
 
-![Project Screenshot](<screenshot_url>)
+![Project Screenshot](<https://miro.medium.com/v2/resize:fit:1400/1*IInvPEffuwYfazsXnKO7iA.png>)
 
 ## Features
 
