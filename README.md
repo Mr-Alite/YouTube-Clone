@@ -67,10 +67,9 @@ A YouTube clone project built with React.js that mimics the basic functionalitie
 
 ## Usage
 
-1. Sign up for an account or log in if you already have one.
-2. Browse videos on the homepage or use the search functionality to find specific videos.
-3. Click on a video thumbnail to watch it.
-4. Interact with videos by liking/disliking, commenting, or uploading your own videos if you're logged in as an authenticated user.
+1. Browse videos on the homepage or use the search functionality to find specific videos.
+2. Click on a video thumbnail to watch it.
+3. Interact with videos by liking/disliking, commenting, or uploading your own videos if you're logged in as an authenticated user.
 
 ## Screenshots
 
